@@ -1,0 +1,9 @@
+git config --global user.name ""
+git config --global user.email ""
+git init
+git add .
+git status
+git commit -m "My firts commit"
+git remote add origin (link on github)
+git remote -v
+git push -f origin master
